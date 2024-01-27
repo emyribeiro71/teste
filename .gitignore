@@ -1,0 +1,5 @@
+## Este ficheiro serve para adicionar pastas e ficheiros que o git deve ignorar
+## A ser usado para ignorar as pastas do ambiente virtual por exemplo, ou outras configurações que não queiramos que sejam publicadas
+
+# ignorar a pasta do meu ambiente virtual
+.venv/
