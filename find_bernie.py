@@ -3,6 +3,8 @@ opencv2
 numpy
 
 '''
+import numpy
+from opencv import cv, cv2
 
 import cv2
 import numpy as np
